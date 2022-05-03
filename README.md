@@ -1,4 +1,4 @@
-This is a collection of notes on books I have studied. I do every exercises to understand the materials. The template is obtained from user maksimim.
+This is a collection of notes on books I have studied. I do the exercises to understand the materials. The template is obtained from user maksimim.
 
 
 ## Instructions
